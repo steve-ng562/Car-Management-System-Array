@@ -1,0 +1,9 @@
+1 2010 Toyota Camry 5 45    Available 
+2 2010 Honda Odyssey 7 60    Available 
+3 2011 Hyundai Elantra 4 30    Available 
+4 2011 Ford Taurus 5 40    Rented 
+5 2011 Honda Pilot 8 70    Rented 
+6 2012 Toyota Sienna 8 75    Rented 
+7 2012 Honda S2000 2 150    Rented 
+8 2012 Mazda Mazda6 7 45    Available 
+9 2014 Nissan Rogue 5 60    Available 
